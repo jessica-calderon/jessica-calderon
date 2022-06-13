@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jessica</h1>
 <h3 align="center">An aspiring full stack developer from Texas</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jessica-calderon" alt="jessica-calderon" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jessica-calderon&theme=dracula" alt="jessica-calderon" /></a> </p>
 
 - 🔭 I’m currently working on **UTSA’s Full Stack Bootcamp**
 

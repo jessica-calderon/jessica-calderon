@@ -32,7 +32,7 @@
 
 <h3>My WakaTime Coding Activity:</h3>
 <img
-  src="https://github.com/jessica-calderon/jessica-e-calderon/blob/main/images/stat.svg"
+  src="https://github.com/jessica-calderon/jessica-calderon/blob/main/images/stat.svg"
   alt=""
 />
 <img

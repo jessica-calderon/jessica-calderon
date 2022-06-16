@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **CSS Frameworks, jQuery/JavaScript, and APIs, to name a few**
 
-- 👩🏻‍💻 All of my projects are available at [https://jessica-calderon.github.io/jessica-e-calderon](https://jessica-calderon.github.io/jessica-e-calderon)
+- 👩🏻‍💻 All of my projects are available at [https://jessica-calderon.github.io/portfolio](https://jessica-calderon.github.io/portfolio)
 
 - 💬 Ask me about **My Bootcamp experience so far**
 

@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **UTSA’s Full Stack Bootcamp**
 
-- 🌱 I’m currently learning **CSS Frameworks, jQuery/JavaScript, APIs, and Node.js, to name a few**
+- 🌱 I’m currently learning **jQuery/JavaScript, APIs, Node.js, Express.js, and Jest, to name a few**
 
 - 👩🏻‍💻 All of my projects are available at [https://jessica-calderon.github.io/portfolio](https://jessica-calderon.github.io/portfolio)
 

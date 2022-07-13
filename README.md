@@ -44,4 +44,6 @@
   src="https://github.com/jessica-calderon/jessica-calderon/blob/main/images/stat.svg"
   alt="WakaTime Activity"
 />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 

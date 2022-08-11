@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **UTSA’s Full Stack Bootcamp**
 
-- 🌱 I’m currently learning **jQuery/JavaScript, APIs, Node.js, Express.js, and MySQL/Sequelize, to name a few**
+- 🌱 I’m currently learning **Node.js, Express.js, Python and MySQL/Sequelize, to name a few**
 
 - 👩🏻‍💻 All of my projects are available at [https://jessica-calderon.github.io/portfolio](https://jessica-calderon.github.io/portfolio)
 
@@ -20,14 +20,6 @@
 <a href="https://twitter.com/webjessc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="webjessc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jessica-calderon-00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jessica-calderon-00" height="30" width="40" /></a>
 </p>
-
-
-### Blogs posts
-<a href="/https://webjess.code.blog/blog/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://webjess.code.blog/blog/feed/" height="30" width="40" /></a>
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
@@ -54,6 +46,7 @@
 />
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
@@ -65,8 +58,6 @@
 > 🏆 687 Contributions in the Year 2022
  > 
 > 📦 243.3 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
  > 
 > 📜 31 Public Repositories 
  > 

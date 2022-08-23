@@ -17,7 +17,7 @@
 
 <h2>Tech Stack:</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,bootstrap,js,jquery,nodejs,express,jest,md,mongodb,mysql,codepen,git,github,gitlab,heroku,ai,ps,powershell,raspberrypi,regex,vscode,wordpress)](https://skillicons.dev)</span>
+[![My Skills](https://skillicons.dev/icons?i=html,css,md,bootstrap,js,jquery,nodejs,express,jest,mongodb,mysql,codepen,git,github,gitlab,heroku,ai,ps,bash,powershell,raspberrypi,regex,vscode,wordpress)](https://skillicons.dev)</span>
 
 
 <p align="left">

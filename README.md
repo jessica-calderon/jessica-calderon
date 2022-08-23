@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **UTSA’s Full Stack Bootcamp**
 
-- 🌱 I’m currently learning **Node.js, Express.js, Python and MySQL/Sequelize, to name a few**
+- 🌱 I’m currently learning **Node.js, Express.js, Python and NoSQL/MongoDB, to name a few**
 
 - 👩🏻‍💻 All of my projects are available at [https://jessica-calderon.github.io/portfolio](https://jessica-calderon.github.io/portfolio)
 

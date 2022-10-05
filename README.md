@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jessica</h1>
-<h3 align="center">A Full Stack MERN developer from Texas</h3>
+<h3 align="center">A Full Stack MERN developer from Texas specializing in Front End Development</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jessica-calderon&theme=dracula" alt="jessica-calderon" /></a> </p>
 

@@ -22,8 +22,7 @@
 
 <p align="left">
  
- [![jessica-calderon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessica-calderon&show_icons=true&theme=midnight-purple)](https://github.com/jessica-calderon/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
  
-.. image:: https://wakatime.com/share/@b6f070f6-85e7-4ae8-8133-ec6407dead73/f34c0026-b0ca-4b03-b9e3-c5446772ff77.png
-    :target: https://wakatime.com/
 </p>

@@ -24,9 +24,6 @@
  
  [![jessica-calderon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessica-calderon&show_icons=true&theme=midnight-purple)](https://github.com/jessica-calderon/github-readme-stats)
  
- <figure><embed src="https://wakatime.com/share/@b6f070f6-85e7-4ae8-8133-ec6407dead73/ec0dda0a-9315-4bc4-b0f8-a8f76134a958.svg"></embed></figure>
- 
- <h3 align="left">Connect with me:</h3>
- <a href="https://twitter.com/webjessc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="webjessc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jessica-calderon-00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jessica-calderon-00" height="30" width="40" /></a>
+.. image:: https://wakatime.com/share/@b6f070f6-85e7-4ae8-8133-ec6407dead73/f34c0026-b0ca-4b03-b9e3-c5446772ff77.png
+    :target: https://wakatime.com/
 </p>

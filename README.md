@@ -19,3 +19,4 @@
  
 [![My Skills](https://skillicons.dev/icons?i=html,css,md,bootstrap,js,jquery,nodejs,express,jest,mongodb,mysql,codepen,git,github,gitlab,heroku,ai,ps,bash,powershell,raspberrypi,regex,vscode,wordpress)](https://skillicons.dev)</span>
 
+<!--START_SECTION:waka--><!--END_SECTION:waka-->

@@ -5,13 +5,15 @@
 
 - 💼 I’m currently working as a **Front End Developer**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js and Typescript**
 
 - 👩🏻‍💻 All of my projects are available at [https://jessica-calderon.github.io/portfolio](https://jessica-calderon.github.io/portfolio)
 
+- 🤖 I'm a 3D printing hobbyist and enthusiast
+
 - 💬 Ask me about **my Full Stack Bootcamp experience**
 
-- 📖 Open to **Freelance Front End Web Design & Development**
+- 📖 I'm currently open to **Freelance Front End Web Design & Development**
 
 - 📫 How to reach me **calderonjessica13@yahoo.com**
 
@@ -20,7 +22,7 @@
 
 <h2>Tech Stack:</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=html,css,md,bootstrap,js,jquery,nodejs,express,jest,mongodb,mysql,codepen,git,github,gitlab,heroku,ai,ps,bash,powershell,raspberrypi,regex,vscode,wordpress)](https://skillicons.dev)</span>
+[![My Skills](https://skillicons.dev/icons?i=html,css,md,bootstrap,js,jquery,nodejs,express,jest,mongodb,mysql,codepen,git,github,gitlab,heroku,ai,ps,bash,powershell,raspberrypi,regex,typescript,vscode,wordpress)](https://skillicons.dev)</span>
 
 
 <!--START_SECTION:waka-->

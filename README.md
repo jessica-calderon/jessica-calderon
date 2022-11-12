@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jessica</h1>
 <h3 align="center">A Full Stack MERN developer from Texas specializing in Front End Development</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jessica-calderon&theme=dracula" alt="jessica-calderon" /></a> </p>
+
+<p align="center"> 
+
+[![wakatime](https://wakatime.com/badge/user/b6f070f6-85e7-4ae8-8133-ec6407dead73.svg)](https://wakatime.com/@b6f070f6-85e7-4ae8-8133-ec6407dead73)
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jessica-calderon&theme=dracula" alt="jessica-calderon" /></a> </p>
 
 - 💼 I’m currently working as a **Front End Developer**
 
@@ -38,3 +43,4 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jessica-calderon&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)

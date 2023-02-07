@@ -10,7 +10,9 @@
 
 - 💼 I’m currently working as a **Front End Developer**
 
-- 🌱 I’m currently learning **React.js and Typescript**
+- 🌱 I’m currently learning **Python 🐍**
+
+- 💻 My main tech stack is **React & Typescript**
 
 - 👩🏻‍💻 All of my projects are available at [https://jessica-calderon.github.io/portfolio](https://jessica-calderon.github.io/portfolio)
 

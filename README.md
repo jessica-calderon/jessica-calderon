@@ -27,9 +27,13 @@
 - ⚡ Fun fact **I used to design, develop, and distribute free HTML/CSS MySpace layouts back in the day 🫣**
 
 
-<h2>Tech Stack:</h2>
+<h2>My <em>Main</em> Tech Stack:</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,tailwind,nodejs,github,html,css,vscode)](https://skillicons.dev)</span>
+
+<h3>Other Technologies:</h3>
  
-[![My Skills](https://skillicons.dev/icons?i=html,css,md,bootstrap,js,jquery,nodejs,express,jest,mongodb,mysql,codepen,git,github,gitlab,heroku,ai,ps,bash,powershell,raspberrypi,regex,typescript,vscode,wordpress)](https://skillicons.dev)</span>
+[![My Skills](https://skillicons.dev/icons?i=md,bootstrap,js,jquery,express,jest,mongodb,mysql,codepen,git,gitlab,heroku,ai,ps,bash,powershell,raspberrypi,regex,wordpress)](https://skillicons.dev)</span>
 
 
 <!--START_SECTION:waka-->
@@ -43,5 +47,7 @@ Other        36 mins         ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessica-calderon&layout=compact&theme=midnight-purple)](https://github.com/jessica-calderon/github-readme-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jessica-calderon&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)

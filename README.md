@@ -35,6 +35,7 @@
  
 [![My Skills](https://skillicons.dev/icons?i=md,bootstrap,js,jquery,express,jest,mongodb,mysql,codepen,git,gitlab,heroku,ai,ps,bash,powershell,raspberrypi,regex,wordpress)](https://skillicons.dev)</span>
 
+<h3>My Weekly WakaTime Stats 🗓</h3>
 
 <!--START_SECTION:waka-->
 
@@ -49,6 +50,8 @@ Markdown     11 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessica-calderon&layout=compact&theme=midnight-purple)](https://github.com/jessica-calderon/github-readme-stats)
+<h3>My GitHub Stats :octocat:</h3>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jessica-calderon&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessica-calderon&layout=compact&theme=midnight-purple)](https://github.com/jessica-calderon/github-readme-stats)

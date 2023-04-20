@@ -1,3 +1,23 @@
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
+    "
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+
 <h1 align="center">Hi 👋, I'm Jessica</h1>
 <h3 align="center">A Full Stack MERN developer from Texas specializing in Front End Development</h3>
 
@@ -53,5 +73,3 @@ Other        25 mins         ▒░░░░░░░░░░░░░░░░
 <h3>My GitHub Stats :octocat:</h3>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jessica-calderon&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessica-calderon&layout=compact&theme=midnight-purple)](https://github.com/jessica-calderon/github-readme-stats)

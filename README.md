@@ -25,8 +25,7 @@
 <p align="center"> 
 
 [![wakatime](https://wakatime.com/badge/user/b6f070f6-85e7-4ae8-8133-ec6407dead73.svg)](https://wakatime.com/@b6f070f6-85e7-4ae8-8133-ec6407dead73)
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jessica-calderon&theme=dracula" alt="jessica-calderon" /></a> </p>
+</p>
 
 - 💼 I’m currently working as a **Front End Developer**
 
@@ -54,7 +53,7 @@
 <h3>Other Technologies:</h3>
  
 [![My Skills](https://skillicons.dev/icons?i=md,bootstrap,js,jquery,express,jest,mongodb,mysql,codepen,git,gitlab,heroku,ai,ps,bash,powershell,raspberrypi,regex,wordpress)](https://skillicons.dev)</span>
-
+<div align='left'>
 <h3>My Weekly WakaTime Stats 🗓</h3>
 
 <!--START_SECTION:waka-->
@@ -70,3 +69,6 @@ Other        50 mins         ██░░░░░░░░░░░░░░░
 <h3>My GitHub Stats :octocat:</h3>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jessica-calderon&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+ 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jessica-calderon&theme=dracula" alt="jessica-calderon" /></a> 
+ </div>

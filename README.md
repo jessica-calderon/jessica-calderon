@@ -19,7 +19,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Jessica</h1>
-<h3 align="center">A Full Stack MERN developer from Texas specializing in Front End Development</h3>
+<h3 align="center">A Full Stack MERN developer from Texas specializing in Front End</h3>
 
 
 <p align="center"> 

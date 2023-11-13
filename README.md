@@ -19,7 +19,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Jessica</h1>
-<h3 align="center">A Full Stack MERN developer from Texas specializing in Front End</h3>
+<h3 align="center">A Full Stack MERN developer from Texas</h3>
 
 
 <p align="center"> 
@@ -27,11 +27,11 @@
 [![wakatime](https://wakatime.com/badge/user/b6f070f6-85e7-4ae8-8133-ec6407dead73.svg)](https://wakatime.com/@b6f070f6-85e7-4ae8-8133-ec6407dead73)
 </p>
 
-- 💼 I’m currently working as a **Front End Developer**
+- 💼 I’m currently working as a **Senior Software Engineer**
 
-- 🌱 I’m currently learning **Python 🐍**
+- 🌱 I’m currently learning **Python 🐍 and PHP**
 
-- 💻 My main tech stack is **React & Typescript**
+- 💻 My favorite tech stack is **React & Typescript**
 
 - 👩🏻‍💻 All of my projects are available at [https://jessica-calderon.github.io/portfolio](https://jessica-calderon.github.io/portfolio)
 
